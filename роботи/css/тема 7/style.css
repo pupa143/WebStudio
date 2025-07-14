@@ -1,3 +1,6 @@
+:root {
+    --color-white: #ffffff;
+}
 h2 {
     font-size: 40px;
     background-color: pink;
